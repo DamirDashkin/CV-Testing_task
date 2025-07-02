@@ -32,23 +32,18 @@
 <table>
   <tr>
     <td align="center">
-      <video width="500" controls>
-        <source src="Train_video.gif" type="gif">
-        Ваш браузер не поддерживает видео.
-      </video>
+      <img src="Train_video.gif" width="500">
       <br/>
       <b>Тренировочное видео</b>
     </td>
     <td align="center">
-      <video width="500" controls>
-        <source src="Testing_video.gif" type="gif">
-        Ваш браузер не поддерживает видео.
-      </video>
+      <img src="Testing_video.gif" width="500">
       <br/>
       <b>Тестовое видео</b>
     </td>
   </tr>
 </table>
+
 
 
 
