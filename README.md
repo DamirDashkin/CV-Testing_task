@@ -94,21 +94,21 @@
 <table>
   <tr>
     <td align="center">
-      <img src="F1_curve(nano).jpg" width="500"><br/>
+      <img src="F1_curve(nano).png" width="500"><br/>
       <b>Рисунок 1. F1-кривая для nano модели</b>
     </td>
     <td align="center">
-      <img src="F1_curve (small).jpg" width="500"><br/>
+      <img src="F1_curve (small).png" width="500"><br/>
       <b>Рисунок 2. F1-кривая для small модели</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="F1_curve (medium).jpg" width="500"><br/>
+      <img src="F1_curve (medium).png" width="500"><br/>
       <b>Рисунок 3. F1-кривая для medium модели</b>
     </td>
     <td align="center">
-      <img src="F1_curve (large).jpg" width="500"><br/>
+      <img src="F1_curve (large).png" width="500"><br/>
       <b>Рисунок 4. F1-кривая для large модели</b>
     </td>
   </tr>
@@ -122,21 +122,21 @@
 <table>
   <tr>
     <td align="center">
-      <img src="PR_curve(nano).jpg" width="500"><br/>
+      <img src="PR_curve(nano).png" width="500"><br/>
       <b>Рисунок 1. PR-кривая для nano модели</b>
     </td>
     <td align="center">
-      <img src="PR_curve (small).jpg" width="500"><br/>
+      <img src="PR_curve (small).png" width="500"><br/>
       <b>Рисунок 2. PR-кривая для small модели</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="PR_curve (medium).jpg" width="500"><br/>
+      <img src="PR_curve (medium).png" width="500"><br/>
       <b>Рисунок 3. PR-кривая для medium модели</b>
     </td>
     <td align="center">
-      <img src="PR_curve (large).jpg" width="500"><br/>
+      <img src="PR_curve (large).png" width="500"><br/>
       <b>Рисунок 4. PR-кривая для large модели</b>
     </td>
   </tr>
