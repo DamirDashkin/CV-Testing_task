@@ -71,7 +71,7 @@
 
 По результатам тренировки были сформированы 4 папки с ее результатами каждой из моделей, где находятся графики, два файла с весами (.pt) - последняя эпоха обучения и лучшая эпоха обучения.
 
-<p align="left">
+<p align="center">
   <img src="train_folder.png" width="300" alt="фото папки"/>
 </p>
 
@@ -91,11 +91,56 @@
 
 Сравним графики F1-кривых каждой из моделей:
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="F1_curve(nano).jpg" width="500"><br/>
+      <b>Рисунок 1. F1-кривая для nano модели</b>
+    </td>
+    <td align="center">
+      <img src="F1_curve (small).jpg" width="500"><br/>
+      <b>Рисунок 2. F1-кривая для small модели</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="F1_curve (medium).jpg" width="500"><br/>
+      <b>Рисунок 3. F1-кривая для medium модели</b>
+    </td>
+    <td align="center">
+      <img src="F1_curve (large).jpg" width="500"><br/>
+      <b>Рисунок 4. F1-кривая для large модели</b>
+    </td>
+  </tr>
+</table>
 
 Лучшее значение F1 показала третья модель с максимальным значением F1 равным ......... при пороге равным ........ Это означает, что данная модель самая сбалансированная среди всех.
 
 
 Также оценим графики PR-кривых:
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="PR_curve(nano).jpg" width="500"><br/>
+      <b>Рисунок 1. PR-кривая для nano модели</b>
+    </td>
+    <td align="center">
+      <img src="PR_curve (small).jpg" width="500"><br/>
+      <b>Рисунок 2. PR-кривая для small модели</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="PR_curve (medium).jpg" width="500"><br/>
+      <b>Рисунок 3. PR-кривая для medium модели</b>
+    </td>
+    <td align="center">
+      <img src="PR_curve (large).jpg" width="500"><br/>
+      <b>Рисунок 4. PR-кривая для large модели</b>
+    </td>
+  </tr>
+</table>
 
 Самая большая площадь под данным графиком у третьей модели, что означает хорошую точность модели при высокой ее полноте. 
 
@@ -115,4 +160,4 @@
 После выбора третьей модели проведен ее тест на предварительно записанном видео
 
 
-*вставить видео с разметкой*
+![Итоговое видео](Testing_video(marked).gif)
